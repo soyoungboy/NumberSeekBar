@@ -1,5 +1,5 @@
-NumberSeekBar
-=============
+## NumberSeekBar ##
+
 
 NumBerSeekBar,非常漂亮的，带有数字进度的SeekBar
 ![](http://a1.eoeandroid.com/attachment/forum/201410/11/112043j6dz2u9sfdpvwbo6.png) 
