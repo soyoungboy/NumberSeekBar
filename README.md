@@ -6,6 +6,9 @@ NumBerSeekBar,非常漂亮的，带有数字进度的SeekBar
 
 效果图详见：http://www.eoeandroid.com/thread-548250-1-1.html
 
+最近在整理android-material-design的开源代码集合，欢迎参与：
+https://github.com/soyoungboy/android-material-design-Open-source-projects/tree/master
+
 MaterialDesign设计的seekbar, 可能不支持低版本
 地址在：https://github.com/AnderWeb/discreteSeekBar
 
