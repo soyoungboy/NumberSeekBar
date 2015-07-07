@@ -23,7 +23,6 @@ import android.widget.SeekBar;
  * @修改时间: 2014-8-11 下午2:01:14
  * @修改内容:
  * @版本: V1.0
- * @版权:Copyright © 2014 云盛海宏信息技术（深圳）有限公司 . All rights reserved.
  */
 public class NumberSeekBar extends SeekBar {
     
